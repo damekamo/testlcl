@@ -139,8 +139,8 @@ public:
 		vector<string> ret(4);
 		ret[0] = "2 0 2 10";
 		ret[1] = "6 10 6 0";
-		ret[2] = "2 6 6 4";
-		ret[3] = "7 0 9 10";
+		ret[2] =  "2 6 6 4";
+		ret[3] =  "7 0 9 10";
 		return ret;
 	}
 };
